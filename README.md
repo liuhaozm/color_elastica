@@ -1,6 +1,6 @@
 # MATLAB code for Color Elastica Models
 
-This is the MATLAB code for "A Color Elastica Model for Vector-Valued Image Regularization" by Liu, Hao and Tai, Xue-Cheng and Kimmel, Ron and Glowinski, Roland.
+This is the MATLAB code for "A Color Elastica Model for Vector-Valued Image Regularization" and "Elastica models for color image regularization" by Liu, Hao and Tai, Xue-Cheng and Kimmel, Ron and Glowinski, Roland.
 
 If this code is useful, pleae cite our paper
 
