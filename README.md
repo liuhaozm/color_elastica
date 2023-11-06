@@ -4,7 +4,7 @@ This is the MATLAB code for "A Color Elastica Model for Vector-Valued Image Regu
 
 If this code is useful, pleae cite our paper:
 
-A Color Elastica Model for Vector-Valued Image Regularization:   https://epubs.siam.org/doi/abs/10.1137/20M1354532
+A Color Elastica Model for Vector-Valued Image Regularization: https://epubs.siam.org/doi/abs/10.1137/20M1354532
 
 Elastica models for color image regularization: https://epubs.siam.org/doi/abs/10.1137/22M147935X
 
